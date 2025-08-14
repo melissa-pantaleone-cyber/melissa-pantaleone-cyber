@@ -1,6 +1,6 @@
 # Hi, I'm Melissa
 
-I am a SANS Cyber Academy student pursuing my passion for justice through cyber defense.
+I am a SANS Cyber Academy alumna pursuing my passion for justice through cyber defense.
 
 
 ## Objective
@@ -21,9 +21,12 @@ More information coming soon!
 ## Certifications
 
 <div>
-  <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/bltb1222898f9767938/63c71c179ba93014827b0225/GSEC.png" width=150 height=150>
-  <img src="https://images.contentstack.io/v3/assets/blt36c2e63521272fdc/blt8a47e5af660fe727/63c71c1708b84c3d9e4c98df/GFACT.png" width=150 height=150>
-  <img src="https://images.credly.com/size/680x680/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width=170 height=170>
+  <img width="198" height="198" alt="giac-certified-incident-handler-gcih" src="https://github.com/user-attachments/assets/10dfb67c-b2c7-4171-a042-96dd4135bc16" />
+  <img width="198" height="198" alt="giac-security-essentials-certification-gsec" src="https://github.com/user-attachments/assets/f707b422-0031-49c8-b6c2-04366b268d73" />
+  <img width="198" height="198" alt="giac-foundational-cybersecurity-technologies-gfact" src="https://github.com/user-attachments/assets/eb846bb6-2f07-47d2-bba8-1b0e6034ed89" />
+  <img width="198" height="198" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/e33e6f04-d4d1-4109-8558-3eea0ab8330e" />
+
+
 </div>
 
 
