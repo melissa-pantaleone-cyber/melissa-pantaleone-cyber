@@ -10,12 +10,22 @@ I am aiming to start my cybersecurity career as a Tier 1 Security Operations Cen
 
 ## Skills
 
-More information coming soon!
-
+| Skill                                                 | Associated Project           |
+|-------------------------------------------------------|------------------------------|
+| Investigating potential incidents (KQL)               | <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a> |
+| Accelerating investigation with threat intelligence   | <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a> |
+| Indicator of Compromise (IOC) Identification          | <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a> |
 
 ## Tools
 
-More information coming soon!
+### SIEM
+- SOF-ELK
+- Splunk
+
+### Languages
+- PowerShell
+- Kusto Query Language (KQL)
+
 
 
 ## Certifications
@@ -33,6 +43,8 @@ More information coming soon!
 ## Projects
 
 <div>
-  - Coming Soon!
+  <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a>
+
+  
 </div>
   
