@@ -16,7 +16,13 @@ I am aiming to start my cybersecurity career as a Tier 1 Security Operations Cen
 | Accelerating investigation with threat intelligence   | <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a> |
 | Indicator of Compromise (IOC) Identification          | <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a> |
 
-## Tools
+## Tools & Operating Systems
+
+### Operating Systems
+- Windows 10/11
+- Ubuntu Linux
+- Slingshot Linux
+- Windows Server 2019
 
 ### SIEM
 - SOF-ELK
