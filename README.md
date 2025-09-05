@@ -15,6 +15,9 @@ I am aiming to start my cybersecurity career as a Tier 1 Security Operations Cen
 | Investigating potential incidents (KQL)               | <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a> |
 | Accelerating investigation with threat intelligence   | <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a> |
 | Indicator of Compromise (IOC) Identification          | <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a> |
+| Splunk installation and Universal Forwarder configuation | <a href="https://github.com/melissa-pantaleone-cyber/Splunk-Basics-Lab/tree/main">Splunk Basics Lab</a> |
+| Splunk Search Processing Language (SPL)               | <a href="https://github.com/melissa-pantaleone-cyber/Splunk-Basics-Lab/tree/main">Splunk Basics Lab</a> |
+| Events of Interest (EOIs) identification               | <a href="https://github.com/melissa-pantaleone-cyber/Splunk-Basics-Lab/tree/main">Splunk Basics Lab</a> |
 
 ## Tools & Operating Systems
 
@@ -31,6 +34,7 @@ I am aiming to start my cybersecurity career as a Tier 1 Security Operations Cen
 ### Languages
 - PowerShell
 - Kusto Query Language (KQL)
+- Search Processing Language (SPL)
 
 
 
@@ -50,7 +54,9 @@ I am aiming to start my cybersecurity career as a Tier 1 Security Operations Cen
 
 <div>
   <a href="https://github.com/melissa-pantaleone-cyber/KQL-Investigation/tree/main">KQL Investigation</a>
-
   
+  <a href="https://github.com/melissa-pantaleone-cyber/Splunk-Basics-Lab/tree/main">Splunk Basics Lab</a>
+
+
 </div>
   
